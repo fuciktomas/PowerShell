@@ -1,2 +1,2 @@
-#konfigurace pro terminal
+# konfigurace pro terminal
 NOTEPAD $PROFILE
